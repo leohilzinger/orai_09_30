@@ -14,3 +14,6 @@
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+chart.js
+visjs
